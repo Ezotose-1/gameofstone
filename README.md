@@ -6,12 +6,11 @@ GameOfStone is a GameOfLife type. But the rules of the lives are differents.
 * Download the file thank's to the github page.
 * Run the script by using this command in a shell :
 ```shell
-./gameOfLife [int:plate size] [type:FAST,NORMAL,HARD] [optionnale int:rep]
+./gameOfLife [type:FAST,NORMAL,HARD] [optionnale int:rep]
 ```
-The first argument is the size of the board in the one the game will be played.
-The second argument if the type of running for the game : FAST, NORMAL, HARD
+The first argument if the type of running for the game : FAST, NORMAL, HARD
 *in the case you don't put one of these argument it will be launched in NOMAL mode*
-The third argument if optionnal, it define how many repetitions will be done for the game.
+The second argument if optionnal, it define how many repetitions will be done for the game.
 *if you don't precise it will be infinite 'till you stop the script...*
 
 
