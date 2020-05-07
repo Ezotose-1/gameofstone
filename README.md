@@ -6,7 +6,7 @@ GameOfStone is a GameOfLife type. But the rules of the lives are differents.
 * Download the file thank's to the github page.
 * Run the script by using this command in a shell :
 ```shell
-./gameOfLife [type:FAST,NORMAL,HARD] [optionnale int:rep]
+./gameOfLife [type:FAST,NORMAL,HARD, SNAKE] [optionnale int:rep]
 ```
 The first argument if the type of running for the game : FAST, NORMAL, HARD
 *in the case you don't put one of these argument it will be launched in NOMAL mode*
