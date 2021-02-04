@@ -1,7 +1,7 @@
 # Game Of Stone
 
 
-GameOfStone is a GameOfLife type. But the rules of the lives are differents.
+GameOfStone is a custom GameOfLife type. But the rules of the lives are differents.
 # How to use :
 * Download the file thank's to the github page.
 * Run the script by using this command in a shell :
